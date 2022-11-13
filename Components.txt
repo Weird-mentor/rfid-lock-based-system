@@ -1,0 +1,9 @@
+Components Required:
+
+1.Servo Motor(SG90)
+2.RFID Reader(RC522)
+3.RFID Cards and Tags
+4.Arduino UNO/Compatible
+5.Door Lock
+6.LCD Display(16x2)
+7.Connecting Wires(Male to Female)
